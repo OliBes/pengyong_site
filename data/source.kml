@@ -1,0 +1,2954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>UK Eye Casualty Services</name>
+    <description><![CDATA[Green: 24hr walk-in eye casualty<br>Orange: In hours clinics, overnight on call<br>Black: no emergency eye service<br><br>For minor conditions, consider asking the patient to self-refer to the Primary Eyecare Network via https://primaryeyecare.co.uk/. Clinicians can also refer to the Primary Eyecare Network by emailing cnech.pecservices@nhs.net<br><br>This map is being updated to include eye casualty services throughout the UK <br><br>This map was originally created by Jonathan Than at jthan@nhs.net<br><br>For any updates or corrections, contact Ayesha Karimi at ayesha.karimi1@nhs.net<br><br>.]]></description>
+    <Style id="icon-1643-000000-labelson">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1643-0F9D58-labelson">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1643-F57C00-labelson">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Hospitals</name>
+      <Placemark>
+        <name>Moorfields Eye Hospital NHS Foundation Trust</name>
+        <description><![CDATA[Opening Hours and Cover: 24 hours emergency. Please telephone to discuss whether referral appropriate - full service hospitals may be more appropriate for patients requiring systemic work-up/treatment<br>Telephone: 020 7521 4682 (NUMBER NOT TO BE GIVEN TO PATIENTS)<br>Email: ]]></description>
+        <styleUrl>#icon-1643-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>24 hours emergency. Please telephone to discuss whether referral appropriate - full service hospitals may be more appropriate for patients requiring systemic work-up/treatment</value>
+          </Data>
+          <Data name="Telephone">
+            <value>020 7521 4682 (NUMBER NOT TO BE GIVEN TO PATIENTS)</value>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.0897774000000027,51.5276377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Free Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: If the patient needs to be seen as an emergency: the emergency eye doctor should be bleeped – GPs/ optoms should call 020 7794 0500 extension 33625 or bleep 1758.<br> <br>After this a referral document can be emailed to rf.eyecasualty@nhs.net<br> <br>If there is no answer to the bleep/ phone then email the above address and in the subject line write Call back urgently for advice please (and leave a reliable number).<br> <br>If a patient with a clinical concern makes contact with yourselves and is known to us, then they need to attend our general casualty for review and then they will discuss with the clinic about accepting the patient in hours or call the on call doctor when out of hours.<br> <br>If attend anywhere has assessed/ triaged the patient already and then needs to be physically seen by us as they are local to us, then please either contact the clinician on call in casualty on 020 7794 0500 extension 33625 or bleep 1758 if it is an emergency, or email through to us the letter from the consultation with the patient's details and we can call them to arrange an appointment if not urgent.<br>Telephone: 020 7794 0500 bleep 1758 or Ext: 33625/33627<br>Email: Rf.eyecasualty@nhs.net]]></description>
+        <styleUrl>#icon-1643-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value><![CDATA[If the patient needs to be seen as an emergency: the emergency eye doctor should be bleeped – GPs/ optoms should call 020 7794 0500 extension 33625 or bleep 1758.
+ 
+After this a referral document can be emailed to rf.eyecasualty@nhs.net
+ 
+If there is no answer to the bleep/ phone then email the above address and in the subject line write Call back urgently for advice please (and leave a reliable number).
+ 
+If a patient with a clinical concern makes contact with yourselves and is known to us, then they need to attend our general casualty for review and then they will discuss with the clinic about accepting the patient in hours or call the on call doctor when out of hours.
+ 
+If attend anywhere has assessed/ triaged the patient already and then needs to be physically seen by us as they are local to us, then please either contact the clinician on call in casualty on 020 7794 0500 extension 33625 or bleep 1758 if it is an emergency, or email through to us the letter from the consultation with the patient's details and we can call them to arrange an appointment if not urgent.]]></value>
+          </Data>
+          <Data name="Telephone">
+            <value>020 7794 0500 bleep 1758 or Ext: 33625/33627</value>
+          </Data>
+          <Data name="Email">
+            <value>Rf.eyecasualty@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.165999233722687,51.5531575569084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Western Eye Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: 08:00-20:30 Mon-Sun walk-in. Out of hours ophthalmology cover via main A&E at St Mary's hospital or Charing Cross hospital <br><br>Overnight covered by Royal Free<br>Telephone: 020 3312 5791<br>020 3312 3245<br>Email: ]]></description>
+        <styleUrl>#icon-1643-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value><![CDATA[08:00-20:30 Mon-Sun walk-in. Out of hours ophthalmology cover via main A&E at St Mary's hospital or Charing Cross hospital 
+
+Overnight covered by Royal Free]]></value>
+          </Data>
+          <Data name="Telephone">
+            <value>020 3312 5791
+020 3312 3245</value>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.163034599999946,51.5209115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Central Middlesex Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: 09:00-17:00 Mon-Fri. Please refer via email (preferred)/phone before sending patients. <br><br>Out of hours by Western Eye<br>Telephone: 020 8963 7195<br><br>020 8453 2165<br>020 8453 2166<br><br>Email: LNWH-tr.centraleye@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>09:00-17:00 Mon-Fri. Please refer via email (preferred)/phone before sending patients. 
+
+Out of hours by Western Eye</value>
+          </Data>
+          <Data name="Telephone">
+            <value>020 8963 7195
+
+020 8453 2165
+020 8453 2166
+</value>
+          </Data>
+          <Data name="Email">
+            <value>LNWH-tr.centraleye@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.268675700000017,51.530965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chelsea and Westminster Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: 09:00-17:00 Mon-Fri. To contact the eye department first before sending a patient to the clinic. Covered by Western Eye Hospital out of hours<br>Telephone: 0203 315 8000 (switchboard)<br>Eye clinic extension: 54206<br>Email: Chelwest.cwophthalmologyadmin@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>09:00-17:00 Mon-Fri. To contact the eye department first before sending a patient to the clinic. Covered by Western Eye Hospital out of hours</value>
+          </Data>
+          <Data name="Telephone">
+            <value>0203 315 8000 (switchboard)
+Eye clinic extension: 54206</value>
+          </Data>
+          <Data name="Email">
+            <value>Chelwest.cwophthalmologyadmin@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.182401000000027,51.4849533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Charing Cross Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: 09:00-17:00 Mon-Fri (informal clinic arrangement). Out of hours covered by Western Eye Hospital<br>Telephone: 020 3311 1234 (switchboard)<br>Email: ]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>09:00-17:00 Mon-Fri (informal clinic arrangement). Out of hours covered by Western Eye Hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value>020 3311 1234 (switchboard)</value>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.220757300000059,51.4870272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hillingdon Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: 09:00-17:00 Mon-Fri via telephone or email referral. NO walk-in service. Western Eye Hospital out of hours<br><br>Telephone: 01895 238 282 Ext: 2027<br>Email: thh-tr.bookingcentre@nhs.net for all referrals.<br>]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>09:00-17:00 Mon-Fri via telephone or email referral. NO walk-in service. Western Eye Hospital out of hours
+</value>
+          </Data>
+          <Data name="Telephone">
+            <value>01895 238 282 Ext: 2027</value>
+          </Data>
+          <Data name="Email">
+            <value>thh-tr.bookingcentre@nhs.net for all referrals.
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.461238500000036,51.5252078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St George's Hospital]]></name>
+        <description><![CDATA[Opening Hours and Cover: Mon - Fri 08:30 - 17:00 - Telephone and/or Email referral for Emergency and same week referrals<br>Mon - Fri 17:00 - 08:30 - Telephone for ocular emergencies<br>Sat, Sun, BH - 08:30 - 21:00 - Telephone and/or Email referral for Emergency and same week referrals<br>Sat, Sun, BH - 21:00 - 08:30 Out of hours - Telephone for ocular emergencies<br><br>How to refer:<br>Please note that walk-ins/self-referrals are NOT accepted. <br> <br>Please complete the referral form below and email it to moorfields.sghurgentcare@nhs.net <br> <br>https://docs.google.com/document/d/1-elgkdhc4HZhoZgRA0iTwOlYIAN8vO0Z/edit?usp=sharing&ouid=104561831344168348650&rtpof=true&sd=true<br><br>(Click File > Download > Microsoft Word)<br> <br>The referrals will be triaged within 4 hours during working hours, and the patient will be contacted directly to arrange a review if needed (please do not ask the patient to just turn up). <br> <br>If your referral is urgent, please call the triage line and send an e-referral form as above. <br><br>08:30-21:00 Mon-Sun - 02077025542<br>21:00 - 08:30 Night nurse triage - 07921056594<br><br><br>If a patient is seen at Kingston, St Heliers, Epsom or Croydon Hospitals out of hours, refer to St George's via telephone and email if ocular emergency. Refer via local pathways for other cases.<br><br>CUES<br>For patients with non-urgent sight or life-threatening conditions (e.g. red eye or eyelids, flashes and floaters (more than 72 hours*), dry, gritty and uncomfortable eyes, sticky discharge or watery eye, foreign body sensation in the eye) who are registered with a GP in Merton/Wandsworth, Richmond and Kingston, please refer to one of the participating high street opticians https://www.primaryeyecare.co.uk/find-a-practice/<br><br>Telephone: See above<br>Email: moorfields.sghurgentcare@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value><![CDATA[Mon - Fri 08:30 - 17:00 - Telephone and/or Email referral for Emergency and same week referrals
+Mon - Fri 17:00 - 08:30 - Telephone for ocular emergencies
+Sat, Sun, BH - 08:30 - 21:00 - Telephone and/or Email referral for Emergency and same week referrals
+Sat, Sun, BH - 21:00 - 08:30 Out of hours - Telephone for ocular emergencies
+
+How to refer:
+Please note that walk-ins/self-referrals are NOT accepted. 
+ 
+Please complete the referral form below and email it to moorfields.sghurgentcare@nhs.net 
+ 
+https://docs.google.com/document/d/1-elgkdhc4HZhoZgRA0iTwOlYIAN8vO0Z/edit?usp=sharing&ouid=104561831344168348650&rtpof=true&sd=true
+
+(Click File > Download > Microsoft Word)
+ 
+The referrals will be triaged within 4 hours during working hours, and the patient will be contacted directly to arrange a review if needed (please do not ask the patient to just turn up). 
+ 
+If your referral is urgent, please call the triage line and send an e-referral form as above. 
+
+08:30-21:00 Mon-Sun - 02077025542
+21:00 - 08:30 Night nurse triage - 07921056594
+
+
+If a patient is seen at Kingston, St Heliers, Epsom or Croydon Hospitals out of hours, refer to St George's via telephone and email if ocular emergency. Refer via local pathways for other cases.
+
+CUES
+For patients with non-urgent sight or life-threatening conditions (e.g. red eye or eyelids, flashes and floaters (more than 72 hours*), dry, gritty and uncomfortable eyes, sticky discharge or watery eye, foreign body sensation in the eye) who are registered with a GP in Merton/Wandsworth, Richmond and Kingston, please refer to one of the participating high street opticians https://www.primaryeyecare.co.uk/find-a-practice/
+]]></value>
+          </Data>
+          <Data name="Telephone">
+            <value>See above</value>
+          </Data>
+          <Data name="Email">
+            <value>moorfields.sghurgentcare@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1752284,51.426563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kingston Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: 08:30-16:30 Mon-Fri. NO WALK-IN SERVICE. Out of hours covered by St George's Hospital<br>Telephone: 020 8934 6799 (GIVE NUMBER TO PATIENT FOR SELF-REFERRAL)<br>Email: khft.reueyecasualty@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value><![CDATA[08:30-16:30 Mon-Fri. NO WALK-IN SERVICE. Out of hours covered by St George's Hospital]]></value>
+          </Data>
+          <Data name="Telephone">
+            <value>020 8934 6799 (GIVE NUMBER TO PATIENT FOR SELF-REFERRAL)</value>
+          </Data>
+          <Data name="Email">
+            <value>khft.reueyecasualty@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.2823947,51.4148236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Helier Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: 08:00-16:30 Mon-Fri Acute Eye Service, via telephone triage. Out of hours covered by Moorfields at St George's Hospital moorfields.sghurgentcare@nhs.net<br>Telephone: 020 8296 3817<br>Email: est-tr.acute-eye-referral@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value><![CDATA[08:00-16:30 Mon-Fri Acute Eye Service, via telephone triage. Out of hours covered by Moorfields at St George's Hospital moorfields.sghurgentcare@nhs.net]]></value>
+          </Data>
+          <Data name="Telephone">
+            <value>020 8296 3817</value>
+          </Data>
+          <Data name="Email">
+            <value>est-tr.acute-eye-referral@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.184749499999953,51.3804081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Croydon University Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: 08:30-16:30 Mon-Fri. Walk-ins/self referrals are NOT accepted. Complete Rapid Access Clinic Referral Form (https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.moorfields.nhs.uk%2FmediaLocal%2Fjoldbq3t%2Fmoorfields-eye-centre-at-croydon-university-hospital-urgent-care-referral-form.docx&wdOrigin=BROWSELINK). Email form to below address. Rapid access clinic is a referral and review by appointment service. Urgent cases requiring same day review please contact the RAC team via the contact number on the referral form, after sending form through (marked URGENT in email subject).<br><br>Out of hours: Covered by St George's Hospital<br><br>Consider referring to local Primary Eyecare services for minor eye conditions - see legend for details.<br><br>For further information regarding referral pathway, please see flowchart at https://drive.google.com/open?id=1CH1uACGug26GuQMbe4GIZ67HutINl8ef&usp=drive_fs<br>Telephone: See Referral Form for further details<br>Email: moorfields.croydonurgentcare@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value><![CDATA[08:30-16:30 Mon-Fri. Walk-ins/self referrals are NOT accepted. Complete Rapid Access Clinic Referral Form (https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.moorfields.nhs.uk%2FmediaLocal%2Fjoldbq3t%2Fmoorfields-eye-centre-at-croydon-university-hospital-urgent-care-referral-form.docx&wdOrigin=BROWSELINK). Email form to below address. Rapid access clinic is a referral and review by appointment service. Urgent cases requiring same day review please contact the RAC team via the contact number on the referral form, after sending form through (marked URGENT in email subject).
+
+Out of hours: Covered by St George's Hospital
+
+Consider referring to local Primary Eyecare services for minor eye conditions - see legend for details.
+
+For further information regarding referral pathway, please see flowchart at https://drive.google.com/open?id=1CH1uACGug26GuQMbe4GIZ67HutINl8ef&usp=drive_fs]]></value>
+          </Data>
+          <Data name="Telephone">
+            <value>See Referral Form for further details</value>
+          </Data>
+          <Data name="Email">
+            <value>moorfields.croydonurgentcare@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1111861,51.3892939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Thomas' Hospital]]></name>
+        <description><![CDATA[Opening Hours and Cover: 08.30-16:00<br><br>Patients can self-refer via telephone during opening hours by calling 020 7188 4336 and will receive a triage call from one of our clinicians, within an hour, to advise appropriate next steps.<br><br>Referrers should call 020 7188 4336 and will be transferred to a clinician to discuss referral. Once accepted, inform patient to attend the Rapid Access Eye Clinic (Ground Floor, St Thomas' Hospital South Wing) with referral letter.<br><br> <br><br>Out of hours - ophthalmologist on call available for advice via switchboard.<br><br> <br><br>Out of hours – patient should attend general A&E if true emergency.<br>Telephone: 020 7188 4336 (triage and referral advice in hours)<br><br>020 7188 7188 (switchboard)<br>Email: ]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value><![CDATA[08.30-16:00
+
+Patients can self-refer via telephone during opening hours by calling 020 7188 4336 and will receive a triage call from one of our clinicians, within an hour, to advise appropriate next steps.
+
+Referrers should call 020 7188 4336 and will be transferred to a clinician to discuss referral. Once accepted, inform patient to attend the Rapid Access Eye Clinic (Ground Floor, St Thomas' Hospital South Wing) with referral letter.
+
+ 
+
+Out of hours - ophthalmologist on call available for advice via switchboard.
+
+ 
+
+Out of hours – patient should attend general A&E if true emergency.]]></value>
+          </Data>
+          <Data name="Telephone">
+            <value>020 7188 4336 (triage and referral advice in hours)
+
+020 7188 7188 (switchboard)</value>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.118920099999968,51.4991229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[King's College Hospital]]></name>
+        <description><![CDATA[Opening Hours and Cover: 08:00-16:00 Mon-Fri. Referral only, via telephone or email. Telephone if same day review required.<br><br> On call off site outside these hours via switchboard - telephone before sending.<br><br>Referral must include: patient telephone/email, VA, symptoms, past ophthalmic/medical/social history, allergies.<br><br><br>Telephone: In hours: 020 3299 0443 (option 1). <br>Out of hours: 020 3299 9000 (On call or Ext: 35465).<br><br>02032997451 nurses phone to check for referrals<br>Email: kch-tr.earlyreferralservice@nhs.net<br>]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>08:00-16:00 Mon-Fri. Referral only, via telephone or email. Telephone if same day review required.
+
+ On call off site outside these hours via switchboard - telephone before sending.
+
+Referral must include: patient telephone/email, VA, symptoms, past ophthalmic/medical/social history, allergies.
+
+</value>
+          </Data>
+          <Data name="Telephone">
+            <value>In hours: 020 3299 0443 (option 1). 
+Out of hours: 020 3299 9000 (On call or Ext: 35465).
+
+02032997451 nurses phone to check for referrals</value>
+          </Data>
+          <Data name="Email">
+            <value>kch-tr.earlyreferralservice@nhs.net
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.093854800000031,51.4681404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Queen Mary's Hospital Sidcup]]></name>
+        <description><![CDATA[Opening Hours and Cover: 08:00-21:00 Mon-Fri: Referral only, via email. Telephone if same day review required.<br>Out of hours covered by King's College Hospital<br><br>Telephone: 08:00-16:00 Mon-Fri: eye clinic 020 3299 0443 (option 2)<br>16:00-21:00 Mon-Fri: 020 8302 2678<br><br>Email: 08:00-16:00 Mon-Fri: kch-tr.qmsrapideyeservice-referral@nhs.net . <br>16:00-21:00 Mon-Fri: kch-tr.urgenteyesqms-referrals@nhs.net<br>]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value><![CDATA[08:00-21:00 Mon-Fri: Referral only, via email. Telephone if same day review required.
+Out of hours covered by King's College Hospital
+]]></value>
+          </Data>
+          <Data name="Telephone">
+            <value>08:00-16:00 Mon-Fri: eye clinic 020 3299 0443 (option 2)
+16:00-21:00 Mon-Fri: 020 8302 2678
+</value>
+          </Data>
+          <Data name="Email">
+            <value>08:00-16:00 Mon-Fri: kch-tr.qmsrapideyeservice-referral@nhs.net . 
+16:00-21:00 Mon-Fri: kch-tr.urgenteyesqms-referrals@nhs.net
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.103268999999955,51.418594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Royal London Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: No walk-in Eye Casualty at the Royal London Hospital.<br><br>All referrals must be discussed with the Ophthalmologist oncall, and if accepted to attend via the main A&E, unless advised otherwise. Contact is through the main switchboard.<br><br>On-site Ophthalmologist 9am to 5pm available to discuss clinician to clinician referrals.<br><br>No on-site ophthalmologist between 5pm to 9am. The out-of-hours non-resident oncall ophthalmologist can be contacted for clinician to clinician emergency advice and referrals via switchboard.<br>Telephone: 0207 377 7000 (switchboard)<br>Email: ]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value><![CDATA[No walk-in Eye Casualty at the Royal London Hospital.
+
+All referrals must be discussed with the Ophthalmologist oncall, and if accepted to attend via the main A&E, unless advised otherwise. Contact is through the main switchboard.
+
+On-site Ophthalmologist 9am to 5pm available to discuss clinician to clinician referrals.
+
+No on-site ophthalmologist between 5pm to 9am. The out-of-hours non-resident oncall ophthalmologist can be contacted for clinician to clinician emergency advice and referrals via switchboard.]]></value>
+          </Data>
+          <Data name="Telephone">
+            <value>0207 377 7000 (switchboard)</value>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.0585175999999592,51.5182221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Watford General Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: 09:00-17:00 Mon-Fri. Referrals only, via email (triaged Monday-Friday, same day if received by 15:00). Telephone if urgent.<br><br>Out of hours Watford A&E/UCC should refer to Western Eye Hospital as per SOP.<br>Telephone: 01923 436 205<br>01923 208 083<br><br>Email: westherts.eyeclinic@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value><![CDATA[09:00-17:00 Mon-Fri. Referrals only, via email (triaged Monday-Friday, same day if received by 15:00). Telephone if urgent.
+
+Out of hours Watford A&E/UCC should refer to Western Eye Hospital as per SOP.]]></value>
+          </Data>
+          <Data name="Telephone">
+            <value>01923 436 205
+01923 208 083
+</value>
+          </Data>
+          <Data name="Email">
+            <value>westherts.eyeclinic@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.403260700000033,51.648629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>North Middlesex University Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: 09:00-16:00 Mon-Thurs, 09:00-12:00 Fri Walk in<br>Telephone: 020 8887 2274<br>020 8887 3417<br>Email: northmid.ophthalmology@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>09:00-16:00 Mon-Thurs, 09:00-12:00 Fri Walk in</value>
+          </Data>
+          <Data name="Telephone">
+            <value>020 8887 2274
+020 8887 3417</value>
+          </Data>
+          <Data name="Email">
+            <value>northmid.ophthalmology@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.0743406000000277,51.6131219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Princess Alexandra</name>
+        <description><![CDATA[Opening Hours and Cover: 09:00-17:00 Mon-Fri<br><br>Out of hours (weekdays) and weekends Consultant available for advice via switchboard.<br><br>Consider referral to Minor Eye Community Service. Referral criteria and details: https://westessexccg.nhs.uk/health-professionals/referrals-pathways-and-guidance/ophthalmology-2/3391-launch-of-west-essex-wide-minor-eye-community-service-mecs-dec-19/file<br><br>Consider referral to nearest local ophthalmology unit out of hours<br>Telephone: 01279 444 455 (switchboard)<br>Email: tpa-tr.ophthalmology@nhs.net (triage service)]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>09:00-17:00 Mon-Fri
+
+Out of hours (weekdays) and weekends Consultant available for advice via switchboard.
+
+Consider referral to Minor Eye Community Service. Referral criteria and details: https://westessexccg.nhs.uk/health-professionals/referrals-pathways-and-guidance/ophthalmology-2/3391-launch-of-west-essex-wide-minor-eye-community-service-mecs-dec-19/file
+
+Consider referral to nearest local ophthalmology unit out of hours</value>
+          </Data>
+          <Data name="Telephone">
+            <value>01279 444 455 (switchboard)</value>
+          </Data>
+          <Data name="Email">
+            <value>tpa-tr.ophthalmology@nhs.net (triage service)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.0863034999999854,51.771343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bedford Hospital South Wing</name>
+        <description><![CDATA[Opening Hours and Cover: 09:00-16:00 Mon-Fri. Out of hours on call ophthalmology cover shared with Luton and Dunstable Hospital and Milton Keynes University Hospital. 1st on call until 21:00 then consultant on call thereafter. <br>Telephone: 01234 355 122<br>Email: ]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>09:00-16:00 Mon-Fri. Out of hours on call ophthalmology cover shared with Luton and Dunstable Hospital and Milton Keynes University Hospital. 1st on call until 21:00 then consultant on call thereafter. </value>
+          </Data>
+          <Data name="Telephone">
+            <value>01234 355 122</value>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.47322280000003,52.1286828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Queen's Hospital]]></name>
+        <description><![CDATA[Opening Hours and Cover: 08:30-17:00 Mon-Fri. Only urgent care, no walk in.  <br>Telephone: Mon-Fri 08:30-17:00: Eye Clinic 01708 435 000 ext: 6662 (or 3550/3551/3549)<br><br>Mon-Fri 17:00-20:00, and Sat-Sun 09:00-15:00: Telephone/video triage by Evolutio 0800 112 0070<br><br>Outside of these hours, refer to local emergency eye unit<br>Email: bhrut.urgenteyecare@nhs.net<br><br>For non-immediate referrals<br><br>Emails must include:<br>Patient name, DOB, NHS number, contact number<br>History, symptoms<br>Visual acuity<br>Pupil responses]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>08:30-17:00 Mon-Fri. Only urgent care, no walk in.  </value>
+          </Data>
+          <Data name="Telephone">
+            <value>Mon-Fri 08:30-17:00: Eye Clinic 01708 435 000 ext: 6662 (or 3550/3551/3549)
+
+Mon-Fri 17:00-20:00, and Sat-Sun 09:00-15:00: Telephone/video triage by Evolutio 0800 112 0070
+
+Outside of these hours, refer to local emergency eye unit</value>
+          </Data>
+          <Data name="Email">
+            <value>bhrut.urgenteyecare@nhs.net
+
+For non-immediate referrals
+
+Emails must include:
+Patient name, DOB, NHS number, contact number
+History, symptoms
+Visual acuity
+Pupil responses</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.179030900000043,51.5689553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whipps Cross University Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Weekdays:<br>08:30-16:30 GP/optometrist/AA referral only<br>17:00-08:00 On call ophthalmologist via switchboard<br>Weekend: <br>Preferable to refer to ophthalmologist on call via switchboard prior to sending patient to A&E.<br><br>All referrals must be discussed with the ophthalmologist on call, and if accepted to attend via the main A&E, unless advised otherwise. Contact is through the main switchboard.<br><br>No on-site ophthalmologist between 9pm to 9am. The out-of-hours non-resident on call ophthalmologist can be contacted for clinician to clinician emergency advice and referrals via switchboard.<br><br>Telephone: 0208 539 5522 Ext: 6940/6939/6500/6777<br>Reception 25715<br><br>Mobile 07971655894 (Mon-Fri 09:00- 17.00) DO NOT GIVE THIS MOBILE NUMBER OUT TO PATIENTS<br><br>Email: bartshealth.whippsurgenteye@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value><![CDATA[Weekdays:
+08:30-16:30 GP/optometrist/AA referral only
+17:00-08:00 On call ophthalmologist via switchboard
+Weekend: 
+Preferable to refer to ophthalmologist on call via switchboard prior to sending patient to A&E.
+
+All referrals must be discussed with the ophthalmologist on call, and if accepted to attend via the main A&E, unless advised otherwise. Contact is through the main switchboard.
+
+No on-site ophthalmologist between 9pm to 9am. The out-of-hours non-resident on call ophthalmologist can be contacted for clinician to clinician emergency advice and referrals via switchboard.
+]]></value>
+          </Data>
+          <Data name="Telephone">
+            <value>0208 539 5522 Ext: 6940/6939/6500/6777
+Reception 25715
+
+Mobile 07971655894 (Mon-Fri 09:00- 17.00) DO NOT GIVE THIS MOBILE NUMBER OUT TO PATIENTS
+</value>
+          </Data>
+          <Data name="Email">
+            <value>bartshealth.whippsurgenteye@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.00232289999996738,51.5785992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Southend University Hospital NHS Foundation Trust</name>
+        <description><![CDATA[Opening Hours and Cover: In hours emergency clinic, overnight on call<br><br>24 hours. Refer via telephone<br>Note that Attend Anywhere service available covering Mid and South Essex NHS Foundation Trust at https://www.mse.nhs.uk/attendanywhere/<br><br>Telephone: 01702 435 555 and ask for ophthalmologist on call<br><br>Email: mse.eyeunit-casualty@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>In hours emergency clinic, overnight on call
+
+24 hours. Refer via telephone
+Note that Attend Anywhere service available covering Mid and South Essex NHS Foundation Trust at https://www.mse.nhs.uk/attendanywhere/
+</value>
+          </Data>
+          <Data name="Telephone">
+            <value>01702 435 555 and ask for ophthalmologist on call
+</value>
+          </Data>
+          <Data name="Email">
+            <value>mse.eyeunit-casualty@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.687732800000049,51.5538593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Addenbrooke's Hospital]]></name>
+        <description><![CDATA[Opening Hours and Cover: In hours - emergency eye clinics, overnight - on call service<br>Telephone: <br>Email: add-tr.emergencyeye@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>In hours - emergency eye clinics, overnight - on call service</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>add-tr.emergencyeye@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.140727500000025,52.1751006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colchester Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: 09:00-17:00 Mon-Fri via telephone referral<br>Covered by Ipswich Hospital out of hours<br><br>Telephone: 01206 286 871 (eye clinic)<br>01206 286 872 (eye clinic)<br>01206 747 474 (switchboard)<br>Email: esneft.eyereferurgent@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>09:00-17:00 Mon-Fri via telephone referral
+Covered by Ipswich Hospital out of hours
+</value>
+          </Data>
+          <Data name="Telephone">
+            <value>01206 286 871 (eye clinic)
+01206 286 872 (eye clinic)
+01206 747 474 (switchboard)</value>
+          </Data>
+          <Data name="Email">
+            <value>esneft.eyereferurgent@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.89889990000006,51.9098567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ipswich Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: <br>Telephone: 01473 712 233 (eye clinic)<br>01473 703 230 (eye clinic)<br>01473 712 233 (switchboard)<br>Email: ]]></description>
+        <styleUrl>#icon-1643-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value/>
+          </Data>
+          <Data name="Telephone">
+            <value>01473 712 233 (eye clinic)
+01473 703 230 (eye clinic)
+01473 712 233 (switchboard)</value>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.19811530000004,52.0579075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lister Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: 08:00-20:00 Mon-Fri<br>08:00-13:00 Sat<br><br>Refer via Urgent Eye Care email before sending patient (or call and speak with triage nurse as below)<br><br>Ophthalmology consultant on call available via switchboard <br>Telephone: 01438 314 333 (switchboard) - Ask for Urgent Eye Clinic Nurse <br>Email: enh-tr.urgenteyereferral@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>08:00-20:00 Mon-Fri
+08:00-13:00 Sat
+
+Refer via Urgent Eye Care email before sending patient (or call and speak with triage nurse as below)
+
+Ophthalmology consultant on call available via switchboard </value>
+          </Data>
+          <Data name="Telephone">
+            <value>01438 314 333 (switchboard) - Ask for Urgent Eye Clinic Nurse </value>
+          </Data>
+          <Data name="Email">
+            <value>enh-tr.urgenteyereferral@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.212682800000039,51.9241581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Luton and Dunstable University Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: 09:00-21:00 Mon-Sun. Referral only, no walk-in<br>Telephone: 01582 718320<br>Out of hours, ophthalmologist on call via switchboard 01582 491166 - 1st on call until 21:00 then consultant on call thereafter. <br>On call ophthalmologist shared with Bedford Hospital and Milton Keynes University Hospital<br>Email: ]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>09:00-21:00 Mon-Sun. Referral only, no walk-in</value>
+          </Data>
+          <Data name="Telephone">
+            <value>01582 718320
+Out of hours, ophthalmologist on call via switchboard 01582 491166 - 1st on call until 21:00 then consultant on call thereafter. 
+On call ophthalmologist shared with Bedford Hospital and Milton Keynes University Hospital</value>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.474637099999995,51.8947933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Broomfield Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: 09:00-17:00 Mon-Fri<br>24 hours via referral<br>Note that Attend Anywhere service available covering Mid and South Essex NHS Foundation Trust at https://www.mse.nhs.uk/attendanywhere/<br><br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>09:00-17:00 Mon-Fri
+24 hours via referral
+Note that Attend Anywhere service available covering Mid and South Essex NHS Foundation Trust at https://www.mse.nhs.uk/attendanywhere/
+</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.466749199999981,51.7744639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Peter's Hospital]]></name>
+        <description><![CDATA[Opening Hours and Cover: In hours - emergency eye clinics, overnight - on call service SHARED WITH ASHFORD HOSPITAL AND ROYAL SURREY COUNTY HOSPITAL<br>Telephone: <br>Email: asp-tr.eye.casualty.referrals@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>In hours - emergency eye clinics, overnight - on call service SHARED WITH ASHFORD HOSPITAL AND ROYAL SURREY COUNTY HOSPITAL</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>asp-tr.eye.casualty.referrals@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.5276926,51.3782069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maidstone Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: In hours - Rapid Access Clinic (RAC). Overnight - on call service<br>Telephone: 01622 226 228<br>Email: mtw-tr.eyesrac@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>In hours - Rapid Access Clinic (RAC). Overnight - on call service</value>
+          </Data>
+          <Data name="Telephone">
+            <value>01622 226 228</value>
+          </Data>
+          <Data name="Email">
+            <value>mtw-tr.eyesrac@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.485144999999989,51.2747712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Surrey County Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: In hours - emergency eye clinics, overnight - on call service SHARED WITH ASHFORD AND ST PETER'S HOSPITAL<br>Telephone: <br>Email: rsch.eyeclinic@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value><![CDATA[In hours - emergency eye clinics, overnight - on call service SHARED WITH ASHFORD AND ST PETER'S HOSPITAL]]></value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>rsch.eyeclinic@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.608517799999959,51.2411243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>East Surrey Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: In hours - emergency eye clinics, overnight - on call service.<br><br>Oculoplastic and corneal emergencies go to Queen Victoria Hospital in East Grinstead<br>Telephone: <br>Email: eye.clinic@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>In hours - emergency eye clinics, overnight - on call service.
+
+Oculoplastic and corneal emergencies go to Queen Victoria Hospital in East Grinstead</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>eye.clinic@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.162401799999998,51.2189735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stoke Mandeville Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: 08:00-20:00 via referral only, not walk-in service. Out of hours ophthalmologist on call via switchboard<br>Telephone: 01296 315 939 (Eye casualty)<br>01296 315 000 (switchboard)<br>Eye casualty alternative direct extension: 5948<br>Email: buc-tr.buckseyecas@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>08:00-20:00 via referral only, not walk-in service. Out of hours ophthalmologist on call via switchboard</value>
+          </Data>
+          <Data name="Telephone">
+            <value>01296 315 939 (Eye casualty)
+01296 315 000 (switchboard)
+Eye casualty alternative direct extension: 5948</value>
+          </Data>
+          <Data name="Email">
+            <value>buc-tr.buckseyecas@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.8021389,51.7982636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ashford Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: In hours - emergency eye clinics, overnight - on call service SHARED WITH ST PETER'S HOSPITAL AND ROYAL SURREY COUNTY HOSPITAL<br>Telephone: <br>Email: asp-tr.eye.casualty.referrals@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value><![CDATA[In hours - emergency eye clinics, overnight - on call service SHARED WITH ST PETER'S HOSPITAL AND ROYAL SURREY COUNTY HOSPITAL]]></value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>asp-tr.eye.casualty.referrals@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.472998,51.444057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>William Harvey Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: In hours - emergency eye clinic. Overnight - on call service<br><br>Telephone: <br>Email: ekhuft.urgenteye@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>In hours - emergency eye clinic. Overnight - on call service
+</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>ekhuft.urgenteye@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.9144713,51.1414328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Optegra</name>
+        <description><![CDATA[Opening Hours and Cover: Only for patients within 3 months of surgery with Optegra<br>Telephone: 08:00-18:00 Mon-Fri: <br>020 3137 9418<br>Outside these hours:<br>07769 263 571<br><br>Email: ]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Only for patients within 3 months of surgery with Optegra</value>
+          </Data>
+          <Data name="Telephone">
+            <value>08:00-18:00 Mon-Fri: 
+020 3137 9418
+Outside these hours:
+07769 263 571
+</value>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.2538937,51.5922329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frimley Park Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: In hours - emergency eye clinics, overnight - on call service<br>Telephone: <br>Email: fph-tr.eyecasualtyfrimley@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>In hours - emergency eye clinics, overnight - on call service</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>fph-tr.eyecasualtyfrimley@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.7420871,51.319766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eastbourne District General Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: In hours - emergency eye clinics, overnight - on call service<br>Telephone: <br>Email: Esht.eyeemergencies@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>In hours - emergency eye clinics, overnight - on call service</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>Esht.eyeemergencies@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.2692998,50.7864002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Sussex County Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: 24 hour walk-in eye casualty<br>Telephone: 01273 696955 x64881<br>Email: uhsussex.eyecasualtyseh@nhs.net]]></description>
+        <styleUrl>#icon-1643-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>24 hour walk-in eye casualty</value>
+          </Data>
+          <Data name="Telephone">
+            <value>01273 696955 x64881</value>
+          </Data>
+          <Data name="Email">
+            <value>uhsussex.eyecasualtyseh@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1168915,50.8192632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Worthing Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: In hours - emergency eye clinic. Overnight - on call service<br>Telephone: <br>Email: uhsussex.emergencyreferralssrh.ophthalmic@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>In hours - emergency eye clinic. Overnight - on call service</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>uhsussex.emergencyreferralssrh.ophthalmic@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.364181,50.8166785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kent and Canterbury Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: On call covered by William Harvey Hospital in Ashford<br>Telephone: <br>Email: ekhuft.urgenteye@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>On call covered by William Harvey Hospital in Ashford</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>ekhuft.urgenteye@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.0866394,51.2662051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Birmingham & Midland Eye Centre]]></name>
+        <description><![CDATA[Opening Hours and Cover: Walk in casualty 9am - 6pm, overnight on call service<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Walk in casualty 9am - 6pm, overnight on call service</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.9290669,52.4899412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Derby Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: In hours - emergency eye clinics, overnight - on call service<br>Telephone: <br>Email: uhdb.acuteeyecare@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>In hours - emergency eye clinics, overnight - on call service</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>uhdb.acuteeyecare@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.5128643,52.9109983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>York Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: In hours - emergency eye clinics, overnight - on call service<br>Telephone: <br>Email: yhs-tr.urgenteyetriageyork@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>In hours - emergency eye clinics, overnight - on call service</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>yhs-tr.urgenteyetriageyork@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.083555,53.9699817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Northampton General Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: In hours - emergency eye clinics, overnight - on call service<br>Telephone: 01604 545085 or 01604 634700 ext 8011<br>Email: ngh-tr.eyecasualty@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>In hours - emergency eye clinics, overnight - on call service</value>
+          </Data>
+          <Data name="Telephone">
+            <value>01604 545085 or 01604 634700 ext 8011</value>
+          </Data>
+          <Data name="Email">
+            <value>ngh-tr.eyecasualty@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.8841462,52.2358082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barnet Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Ophthalmology services. Part of Royal Free London NHS Foundation Trust - can be referred to Royal Free or North Middlesex University Hospital<br><br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Ophthalmology services. Part of Royal Free London NHS Foundation Trust - can be referred to Royal Free or North Middlesex University Hospital
+</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.2146381,51.6504237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chase Farm Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Some ophthalmology services. No ocular trauma. Part of Royal Free London NHS Foundation Trust - can be referred to Royal Free or North Middlesex University Hospital<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Some ophthalmology services. No ocular trauma. Part of Royal Free London NHS Foundation Trust - can be referred to Royal Free or North Middlesex University Hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1035232,51.6670427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Great Ormond Street Hospital for Children</name>
+        <description><![CDATA[Opening Hours and Cover: Paediatric hospital<br>Telephone: 020 7405 9200 emergency number to talk to ophthalmologist<br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Paediatric hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value>020 7405 9200 emergency number to talk to ophthalmologist</value>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.120741,51.5231639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Northwick Park Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Part of London North West University Healthcare Foundation Trust<br><br>In hours covered by Moorfields. Out of hours covered by Western Eye Hospital<br>Telephone: <br>Email: LNWH-tr.centraleye@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Part of London North West University Healthcare Foundation Trust
+
+In hours covered by Moorfields. Out of hours covered by Western Eye Hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>LNWH-tr.centraleye@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.3201721,51.5754036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ealing Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Part of London North West University Healthcare Foundation Trust<br>Telephone: <br>Email: LNWH-tr.centraleye@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Part of London North West University Healthcare Foundation Trust</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>LNWH-tr.centraleye@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.3465216,51.5075205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Newham Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Part of Barts Health NHS Trust<br>Telephone: <br>Email: bartshealth.whippsurgenteye@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Part of Barts Health NHS Trust</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>bartshealth.whippsurgenteye@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.0379309,51.5227127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mile End Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Part of Barts Health NHS Trust<br>Telephone: <br>Email: bartshealth.whippsurgenteye@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Part of Barts Health NHS Trust</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>bartshealth.whippsurgenteye@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.0421445,51.5250734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Bartholomew's Hospital]]></name>
+        <description><![CDATA[Opening Hours and Cover: No ophthalmology. Part of Barts Health NHS Trust<br>Telephone: <br>Email: bartshealth.whippsurgenteye@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>No ophthalmology. Part of Barts Health NHS Trust</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>bartshealth.whippsurgenteye@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1014168,51.5168725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Homerton Healthcare NHS Foundation Trust</name>
+        <description><![CDATA[Opening Hours and Cover: Outreach clinic for Moorfields<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Outreach clinic for Moorfields</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.0456981,51.5507442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University College Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Cataracts and other eye services<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Cataracts and other eye services</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1364556,51.5250869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whittington Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Some eye services. Emergency care covered by Royal Free<br>Telephone: 0203 7582402 or 0203 7527277<br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Some eye services. Emergency care covered by Royal Free</value>
+          </Data>
+          <Data name="Telephone">
+            <value>0203 7582402 or 0203 7527277</value>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1398534,51.5665993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Guy's Hospital]]></name>
+        <description><![CDATA[Opening Hours and Cover: <br>Telephone: <br>Email: Covered by St Thomas' Hospital]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value/>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value><![CDATA[Covered by St Thomas' Hospital]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.0868546,51.5033114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University Hospital Lewisham</name>
+        <description><![CDATA[Opening Hours and Cover: Diabetic Care only, no ophthalmology<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Diabetic Care only, no ophthalmology</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.0173012,51.4538715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Queen Elizabeth Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: <br>Telephone: <br>Email: Covered by Queen Mary’s Hospital Sidcup ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value/>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>Covered by Queen Mary’s Hospital Sidcup </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.0505587,51.4778139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Epsom Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: No emergency eye service. Covered by Acute Eye Service at St Helier's Hospital.<br>Telephone: <br>Email: est-tr.acute-eye-referral@nhs.net<br><br>Out of hours moorfields.sghurgentcare@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value><![CDATA[No emergency eye service. Covered by Acute Eye Service at St Helier's Hospital.]]></value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>est-tr.acute-eye-referral@nhs.net
+
+Out of hours moorfields.sghurgentcare@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.2732057,51.3251497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Wilson Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Psychiatric hospital<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Psychiatric hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1625776,51.3974893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>West Middlesex University Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Have a main A&E but no ophthalmology<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value><![CDATA[Have a main A&E but no ophthalmology]]></value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.3244425,51.4734184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tolworth Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Psychiatric hospital<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Psychiatric hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.2890124,51.3799704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Teddington Memorial Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Outpatient hospital, no ophthalmology<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Outpatient hospital, no ophthalmology</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.3407941,51.4261491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Charles Centre for Health & Wellbeing]]></name>
+        <description><![CDATA[Opening Hours and Cover: No ophthalmology<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>No ophthalmology</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.2175883,51.5222275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Anthony's Hospital]]></name>
+        <description><![CDATA[Opening Hours and Cover: Outpatient hospital, no ophthalmology<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Outpatient hospital, no ophthalmology</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.2205915,51.3797147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Springfield University Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Psychiatric hospital<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Psychiatric hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1718014,51.4385846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Marsden Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Cancer hospital with head and neck and some ophthalmic cancer care<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Cancer hospital with head and neck and some ophthalmic cancer care</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1725817,51.4900992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Marsden Hospital - Sutton</name>
+        <description><![CDATA[Opening Hours and Cover: Outpatient hospital, no ophthalmology<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Outpatient hospital, no ophthalmology</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1905314,51.343361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Hospital Chelsea</name>
+        <description><![CDATA[Opening Hours and Cover: Veteran Care Home<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Veteran Care Home</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1584374,51.4871375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Brompton Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Heart and lung centre. No ophthalmology, Covered by St Thomas Hospital<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Heart and lung centre. No ophthalmology, Covered by St Thomas Hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1701254,51.4891103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Queen Mary's Hospital]]></name>
+        <description><![CDATA[Opening Hours and Cover: No ophthalmology or A&E<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value><![CDATA[No ophthalmology or A&E]]></value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.2426609,51.4556562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cassel Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Psychiatric hospital<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Psychiatric hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.308245,51.4329786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barnes Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Psychiatric hospital<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Psychiatric hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.2564825,51.4671554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Princess Royal University Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Part of King's College Hospital NHS Foundation Trust<br>Telephone: <br>Email: Kch-tr.qmsrapideyeservice-referral@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value><![CDATA[Part of King's College Hospital NHS Foundation Trust]]></value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>Kch-tr.qmsrapideyeservice-referral@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.0581939,51.3661498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Orpington Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Part of King's College Hospitals NHS Foundation Trust<br>Telephone: <br>Email: Kch-tr.qmsrapideyeservice-referral@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value><![CDATA[Part of King's College Hospitals NHS Foundation Trust]]></value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>Kch-tr.qmsrapideyeservice-referral@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.0950913,51.3624153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Memorial Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Outpatient psychiatry and elderly care hospital, no ophthalmology<br><br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Outpatient psychiatry and elderly care hospital, no ophthalmology
+</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.0639993,51.4689649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maudsley Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Psychiatric hospital<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Psychiatric hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.0920093,51.468759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lambeth Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Psychiatric hospital<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Psychiatric hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1235657,51.4663418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Evelina London Children's Hospital]]></name>
+        <description><![CDATA[Opening Hours and Cover: <br>Telephone: <br>Email: Covered by St Thomas' Hospital]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value/>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value><![CDATA[Covered by St Thomas' Hospital]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1184793,51.4983258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Erith and District Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Outpatients, no ophthalmology<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Outpatients, no ophthalmology</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.1673859,51.476933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bethlem Royal Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Psychiatric hospital<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Psychiatric hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.031766,51.3819697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beckenham Beacon</name>
+        <description><![CDATA[Opening Hours and Cover: Urgent treatment centre, no ophthalmology<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Urgent treatment centre, no ophthalmology</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.0336736,51.4050226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Mary's Hospital]]></name>
+        <description><![CDATA[Opening Hours and Cover: No ophthalmology<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>No ophthalmology</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1742676,51.5175558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Bernard's Hospital]]></name>
+        <description><![CDATA[Opening Hours and Cover: Psychiatric hospital<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Psychiatric hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.3472106,51.5066225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Queen Charlotte's and Chelsea Hospital]]></name>
+        <description><![CDATA[Opening Hours and Cover: Maternity / neonatal hospital<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Maternity / neonatal hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.2374661,51.5163664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mount Vernon Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Some ophthalmology services. No ocular trauma. Covered by Hillingdon<br>Telephone: <br>Email: thh.nursetriage@nhs.net<br>and copy thh-tr.bookingcentre@nhs.net for all urgent referrals.<br><br>For routine referrals email thh-tr.bookingcentre@nhs.net alone]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Some ophthalmology services. No ocular trauma. Covered by Hillingdon</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>thh.nursetriage@nhs.net
+and copy thh-tr.bookingcentre@nhs.net for all urgent referrals.
+
+For routine referrals email thh-tr.bookingcentre@nhs.net alone</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.4455876,51.6151644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Harefield Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Cardiothoracic hospital. Covered by St Thomas hospital<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Cardiothoracic hospital. Covered by St Thomas hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.4827024,51.6067699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Finchley Memorial Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Some ophthalmic services. No ocular trauma<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Some ophthalmic services. No ocular trauma</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1764142,51.6054045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hammersmith Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: No ophthalmology<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>No ophthalmology</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.2357805,51.5171954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Hospital for Neurology and Neurosurgery</name>
+        <description><![CDATA[Opening Hours and Cover: Neuro-ophthalmology only<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Neuro-ophthalmology only</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1222765,51.5222486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Leonard's Hospital]]></name>
+        <description><![CDATA[Opening Hours and Cover: Routine outpatients<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Routine outpatients</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.0772543,51.5339212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Goodmayes Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Psychiatric hospital<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Psychiatric hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.109567,51.5781688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NHS St Pancras Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Rehab facility<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Rehab facility</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1314263,51.5365741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Ann's Hospital]]></name>
+        <description><![CDATA[Opening Hours and Cover: Paediatric services only, no ophthalmology<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Paediatric services only, no ophthalmology</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.0899419,51.5802801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal London Hospital for Integrated Medicine</name>
+        <description><![CDATA[Opening Hours and Cover: No ophthalmology<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>No ophthalmology</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1213667,51.5217196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Arundel & District Hospital]]></name>
+        <description><![CDATA[Opening Hours and Cover: No eye emergency cover<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>No eye emergency cover</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.5653945,50.8544675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bexhill Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: On call covered by Eastbourne Hospital<br>Telephone: <br>Email: Esht.eyeemergencies@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>On call covered by Eastbourne Hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>Esht.eyeemergencies@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.4760624,50.8511156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Princess Royal Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: On call covered by Brighton<br>Telephone: <br>Email: uhsussex.emergencyreferralssrh.ophthalmic@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>On call covered by Brighton</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>uhsussex.emergencyreferralssrh.ophthalmic@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.0906292,50.990989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bognor Regis War Memorial Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: No eye emergency cover<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>No eye emergency cover</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.6758925,50.7930814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Queen Elizabeth The Queen Mother Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: On call covered by William Harvey Hospital<br>Telephone: <br>Email: ekhuft.urgenteye@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>On call covered by William Harvey Hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>ekhuft.urgenteye@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.3888525,51.377091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Queen Victoria Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: On call service for oculoplastics, cornea and glaucoma. Retina and neuro-ophth emergencies go to East Surrey Hospital<br>Telephone: <br>Email: tqv-tr.referrals@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>On call service for oculoplastics, cornea and glaucoma. Retina and neuro-ophth emergencies go to East Surrey Hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>tqv-tr.referrals@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.0019779,51.1350886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buckland Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: On call covered by William Harvey Hospital<br>Telephone: <br>Email: ekhuft.urgenteye@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>On call covered by William Harvey Hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>ekhuft.urgenteye@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.2905925,51.1313296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Conquest Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: On call covered by Eastbourne Hospital<br>Telephone: <br>Email: Esht.eyeemergencies@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>On call covered by Eastbourne Hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>Esht.eyeemergencies@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.5677931,50.8855183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crawley Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Emergency eye cover by Redhill<br>Telephone: <br>Email: eye.clinic@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Emergency eye cover by Redhill</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>eye.clinic@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1963585,51.116982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Darent Valley Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: <br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value/>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.25865,51.4352246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Victoria Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: On call covered by William Harvey Hospital<br>Telephone: <br>Email: ekhuft.urgenteye@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>On call covered by William Harvey Hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>ekhuft.urgenteye@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.1718946,51.0859956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Southlands Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: On call covered by Worthing Hospital<br>Telephone: <br>Email: uhsussex.emergencyreferralssrh.ophthalmic@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>On call covered by Worthing Hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>uhsussex.emergencyreferralssrh.ophthalmic@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.2558691,50.8406747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Epsom Cottage Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Outpatient hospital, no ophthalmology<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Outpatient hospital, no ophthalmology</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.2553491,51.3345331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Farnham Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: No emergency eye cover<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>No emergency eye cover</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.7847006,51.2203978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Farnham Road Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: No emergency eye cover<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>No emergency eye cover</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.5853287,51.2358726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Horsham Community Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Emergency eye cover by Redhill<br>Telephone: <br>Email: eye.clinic@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Emergency eye cover by Redhill</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>eye.clinic@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.324125,51.0701345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lewes Victoria Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: On call covered by Brighton<br>Telephone: <br>Email: uhsussex.emergencyreferralssrh.ophthalmic@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>On call covered by Brighton</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>uhsussex.emergencyreferralssrh.ophthalmic@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.0055455,50.8750645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Medway Maritime Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Emergency cover by Maidstone<br>Telephone: <br>Email: mtw-tr.eyesrac@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Emergency cover by Maidstone</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>mtw-tr.eyesrac@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.5415583,51.379464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Milford Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: <br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value/>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.6256138,51.1673502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Martin's Hospital]]></name>
+        <description><![CDATA[Opening Hours and Cover: No emergency eye cover<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>No emergency eye cover</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.1092497,51.2772751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Richard's Hospital]]></name>
+        <description><![CDATA[Opening Hours and Cover: On call covered by Worthing Hospital<br>Telephone: <br>Email: uhsussex.emergencyreferralssrh.ophthalmic@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>On call covered by Worthing Hospital</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>uhsussex.emergencyreferralssrh.ophthalmic@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.7697286,50.8438618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tunbridge Wells Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Emergency cover by Maidstone<br>Telephone: <br>Email: mtw-tr.eyesrac@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Emergency cover by Maidstone</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>mtw-tr.eyesrac@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.3076596,51.1490342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gravesham Community Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: No emergency eye cover<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>No emergency eye cover</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.3654873,51.4430661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sevenoaks Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Emergency cover by Maidstone<br>Telephone: <br>Email: mtw-tr.eyesrac@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Emergency cover by Maidstone</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>mtw-tr.eyesrac@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.1953159,51.2879646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woking Community Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: No emergency eye cover<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>No emergency eye cover</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.5566267,51.3151742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Musgrove Park Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: n hours emergency clinic, overnight on call<br>Telephone: <br>Email: acutereferralclinic@somersetft.nhs.uk]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>n hours emergency clinic, overnight on call</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>acutereferralclinic@somersetft.nhs.uk</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -3.1207358,51.0113233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bristol Eye Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Walk in 8:30am-4:30pm. Overnight on call service<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Walk in 8:30am-4:30pm. Overnight on call service</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.5943707,51.458458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Victoria Infirmary</name>
+        <description><![CDATA[Opening Hours and Cover: Walk in casualty 8:30am - 4pm weekdays. Overnight on call service<br>Telephone: <br>Email: nuth.eedmessages@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>Walk in casualty 8:30am - 4pm weekdays. Overnight on call service</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>nuth.eedmessages@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.619727,54.9802687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Cornwall Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: In hours emergency clinic, overnight on call<br>Telephone: <br>Email: rch-tr.emergencyeyeclinic@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>In hours emergency clinic, overnight on call</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>rch-tr.emergencyeyeclinic@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -5.0922396,50.2662301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Queen's Medical Centre]]></name>
+        <description><![CDATA[Opening Hours and Cover: 24hr walk-in eye casualty<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>24hr walk-in eye casualty</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.1849742,52.9436069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ninewells Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: In hours emergency clinic, overnight on call<br>Telephone: <br>Email: TAY.ophthalmology@nhs.scot]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>In hours emergency clinic, overnight on call</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>TAY.ophthalmology@nhs.scot</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -3.0390129,56.4644071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leeds General Infirmary</name>
+        <description><![CDATA[Opening Hours and Cover: In hours emergency clinic, overnight on call<br>Telephone: <br>Email: leedsth-tr.ophurgents@nhs.net]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>In hours emergency clinic, overnight on call</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>leedsth-tr.ophurgents@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.5528919,53.8025431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Huddersfield Royal Infirmary</name>
+        <description><![CDATA[Opening Hours and Cover: In hours emergency clinic, overnight on call<br>Telephone: <br>Email: eye.secretary@cht.nhs.uk]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>In hours emergency clinic, overnight on call</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>eye.secretary@cht.nhs.uk</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.8167849,53.6553351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Victoria Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: In hours emergency clinic, overnight on call<br>Telephone: <br>Email: ]]></description>
+        <styleUrl>#icon-1643-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value>In hours emergency clinic, overnight on call</value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -5.954206,54.5945406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>King George Hospital</name>
+        <description><![CDATA[Opening Hours and Cover: Part of Barking, Havering and Redbridge University Hospitals Trust - covered by Queen's Hospital Romford<br>Telephone: <br>Email: bhrut.urgenteyecare@nhs.net]]></description>
+        <styleUrl>#icon-1643-000000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Opening Hours and Cover">
+            <value><![CDATA[Part of Barking, Havering and Redbridge University Hospitals Trust - covered by Queen's Hospital Romford]]></value>
+          </Data>
+          <Data name="Telephone">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>bhrut.urgenteyecare@nhs.net</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.1120638,51.5805615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+    </Folder>
+  </Document>
+</kml>

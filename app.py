@@ -33,11 +33,14 @@ def get_postcode_coords(postcode: str):
 
 def haversine_miles(lat1, lng1, lat2, lng2):
     """Return the great-circle distance in miles between two lat/lng points."""
-    R = 3_958.8  # Earth radius in miles
+    R = 3_958.8
     phi1, phi2 = math.radians(lat1), math.radians(lat2)
     dphi = math.radians(lat2 - lat1)
     dlambda = math.radians(lng2 - lng1)
-    a = math.sin(dphi / 2) ** 2 + math.cos(phi1) * math.cos(phi2) * math.sin(dlambda / 2) ** 2
+    a = (
+        math.sin(dphi / 2) ** 2
+        + math.cos(phi1) * math.cos(phi2) * math.sin(dlambda / 2) ** 2
+    )
     return R * 2 * math.asin(math.sqrt(a))
 
 
@@ -64,7 +67,9 @@ def api_search():
 
     units = load_units()
     for unit in units:
-        unit["distance_miles"] = round(haversine_miles(lat, lng, unit["lat"], unit["lng"]), 1)
+        unit["distance_miles"] = round(
+            haversine_miles(lat, lng, unit["lat"], unit["lng"]), 1
+        )
 
     units.sort(key=lambda u: u["distance_miles"])
 
